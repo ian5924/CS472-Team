@@ -2,6 +2,6 @@
 
 List of contributors
 
-First Name    Last Name
---------------------------
-Garrett       Prentice
+First Name    Last Name     Email
+----------------------------------
+Garrett       Prentice      garrettprentice@tuta.io
