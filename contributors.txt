@@ -5,3 +5,5 @@ List of contributors
 First Name    Last Name     Email
 ----------------------------------
 Garrett       Prentice      garrettprentice@tuta.io
+Katrina       Parsom        Parsok2@unlv.nevada.edu
+
