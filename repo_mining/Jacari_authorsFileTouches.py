@@ -3,9 +3,9 @@ import requests
 import json
 
 # Fake tokens. Generate your own and replace these
-token_list = ["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"]
+token_list = [""]
 # Sample repository. Replace it with your own repository
-reponame = "S1robe/CS472-Team"
+reponame = ""
 ct = 0
 # Date to start collecting data from
 ignore_date = pd.to_datetime("2023-02-16T00:00:00-00:00", utc=True)
