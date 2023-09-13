@@ -1,0 +1,1 @@
+authors.index(csv["Author"][commit])
