@@ -3,9 +3,9 @@ import requests
 import json
 
 # Fake tokens. Generate your own and replace these
-token_list = [""]
+token_list = ["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"]
 # Sample repository. Replace it with your own repository
-reponame = ""
+reponame = "S1robe/CS472-Team"
 ct = 0
 # Date to start collecting data from
 ignore_date = pd.to_datetime("2023-02-16T00:00:00-00:00", utc=True)
@@ -96,6 +96,10 @@ def pullrequest_details(reponame, login_to_name, token_list, ct):
             for pr_obj in pr_list:
                 pr_number = pr_obj["number"]
                 login = pr_obj["user"]["login"]
+
+                if login not in login_to_name:
+                    continue
+
                 contri_name = login_to_name[login]
 
                 # Only count PRs that were merged
