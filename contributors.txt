@@ -1,11 +1,10 @@
-
-
 List of contributors
 
 First Name    Last Name     Email
 ----------------------------------
 Garrett       Prentice      garrettprentice@tuta.io
 Katrina       Parsom        Parsok2@unlv.nevada.edu
+Caelan        O'Toole       otoolc2@unlv.nevada.edu
 Jacari        Haprper       harpej3@unlv.nevada.edu
 Ian           Wakayu        wakayi1@unlv.nevada.edu
-
+Miguel        Munguia       mungum1@unlv.nevada.edu
